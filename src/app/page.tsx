@@ -57,7 +57,7 @@ export default function Home() {
              </div>
 
              <div className="flex gap-3 mt-8 relative z-10">
-               <a href="/Abbal_Baral_Resume_for_Internship.pdf" target="_blank" className="flex-1 bg-slate-900 text-white py-3 rounded-xl font-semibold flex items-center justify-center gap-2 hover:bg-slate-800 transition-transform active:scale-95 shadow-lg shadow-slate-900/20">
+               <a href="/AbbalBaral_Resume_for_Internship.pdf" target="_blank" className="flex-1 bg-slate-900 text-white py-3 rounded-xl font-semibold flex items-center justify-center gap-2 hover:bg-slate-800 transition-transform active:scale-95 shadow-lg shadow-slate-900/20">
                  <Download size={18} /> Resume
                </a>
                <Link href="/projects" className="flex-1 bg-white border-2 border-slate-100 text-slate-900 py-3 rounded-xl font-semibold flex items-center justify-center gap-2 hover:border-slate-300 transition-colors active:scale-95">
